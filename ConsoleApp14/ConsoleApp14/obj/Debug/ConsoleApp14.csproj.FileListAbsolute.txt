@@ -1,0 +1,8 @@
+E:\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+E:\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+E:\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+E:\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+E:\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+E:\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+E:\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.CodeAnalysisLog.xml
+E:\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.lastcodeanalysissucceeded
